@@ -27,11 +27,12 @@ sudo ./run_test_multiGPU_ResNet_GBD_accurate.sh
 
 To be updated
 
-##Result
+## Result
 
 See the result.txt file.
 
-##References
+## References
 
 https://github.com/craftGBD/craftGBD
+
 [1] Zeng, Xingyu, et al. "Crafting gbd-net for object detection." IEEE transactions on pattern analysis and machine intelligence (2017).
