@@ -6,7 +6,11 @@ Object detection using CraftGBD
 
 * Python2.7
 * Caffe
-* CraftGBD : https://github.com/craftGBD/craftGBD
+
+## Installation : CraftGBD
+```
+git clone --recursive https://github.com/craftGBD/craftGBD.git
+```
 
 ## Testing
 
@@ -18,7 +22,7 @@ All of the following steps are based on the assumption that the previous install
 
 #### Testing
 
-After fully installing CraftGBd, testing the model can be done by running ./run_test_multiGPU_ResNet_GBD_accurate.sh in the evaluation folder.
+After fully installing craftGBD, testing the model can be done by running ./run_test_multiGPU_ResNet_GBD_accurate.sh in the evaluation folder.
 
 ```
 sudo ./run_test_multiGPU_ResNet_GBD_accurate.sh
