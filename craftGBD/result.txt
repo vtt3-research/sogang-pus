@@ -1,0 +1,203 @@
+accordion	0.790
+airplane	0.751
+ant		0.735
+antelope	0.806
+apple		0.565
+armadillo	0.909
+artichoke	0.668
+axe		0.610
+baby bed	0.746
+backpack	0.239
+bagel		0.674
+balance beam	0.673
+banana		0.620
+band aid	0.633
+banjo		0.958
+baseball	0.779
+basketball	0.937
+bathing cap	0.727
+beaker		0.628
+bear		0.909
+bee		0.855
+bell pepper	0.719
+bench		0.250
+bicycle		0.681
+binder		0.407
+bird		0.925
+bookshelf	0.240
+bow tie		0.492
+bow		0.574
+bowl		0.500
+brassiere	0.595
+burrito		0.574
+bus		0.817
+butterfly	0.966
+camel		0.654
+can opener	0.612
+car		0.680
+cart		0.706
+cattle		0.749
+cello		0.762
+centipede	0.717
+chain saw	0.573
+chair		0.528
+chime		0.578
+cocktail shaker	0.421
+coffee maker	0.688
+computer keyboard	0.640
+computer mouse	0.695
+corkscrew	0.546
+cream		0.471
+croquet ball	0.523
+crutch		0.554
+cucumber	0.690
+cup or mug	0.527
+diaper		0.687
+digital clock	0.632
+dishwasher	0.444
+dog		0.959
+domestic cat	0.737
+dragonfly	0.665
+drum		0.638
+dumbbell	0.462
+electric fan	0.687
+elephant	0.854
+face powder	0.407
+fig		0.690
+filing cabinet	0.289
+flower pot	0.309
+flute		0.470
+fox		0.934
+french horn	0.600
+frog		0.899
+frying pan	0.518
+giant panda	0.779
+goldfish	0.618
+golf ball	0.807
+golfcart	0.728
+guacamole	0.492
+guitar		0.792
+hair dryer	0.784
+hair spray	0.488
+hamburger	0.761
+hammer		0.668
+hamster		0.904
+harmonica	0.505
+harp		0.742
+hat with a wide brim	0.582
+head cabbage	0.347
+helmet		0.654
+hippopotamus	0.810
+horizontal bar	0.089
+horse		0.749
+hotdog		0.671
+iPod		0.759
+isopod		0.958
+jellyfish	0.505
+koala bear	0.708
+ladle		0.354
+ladybug		0.513
+lamp		0.255
+laptop		0.760
+lemon		0.749
+lion		0.796
+lipstick	0.703
+lizard		0.923
+lobster		0.677
+maillot		0.624
+maraca		0.606
+microphone	0.342
+microwave	0.632
+milk can	0.799
+miniskirt	0.354
+monkey		0.896
+motorcycle	0.690
+mushroom	0.671
+nail		0.374
+neck brace	0.691
+oboe		0.595
+orange		0.738
+otter		0.495
+pencil box	0.466
+pencil sharpener	0.752
+perfume		0.724
+person		0.729
+piano		0.603
+pineapple	0.671
+ping-pong ball	0.670
+pitcher		0.445
+pizza		0.641
+plastic bag	0.281
+plate rack	0.259
+pomegranate	0.541
+popsicle	0.742
+porcupine	0.516
+power drill	0.522
+pretzel		0.455
+printer		0.559
+puck		0.592
+punching bag	0.783
+purse		0.352
+rabbit		0.847
+racket		0.582
+ray		0.723
+red panda	0.734
+refrigerator	0.686
+remote control	0.857
+rubber eraser	0.270
+rugby ball	0.798
+ruler		0.497
+salt or pepper shaker	0.495
+saxophone	0.807
+scorpion	0.930
+screwdriver	0.377
+seal		0.679
+sheep		0.797
+ski		0.221
+skunk		0.700
+snail		0.802
+snake		0.887
+snowmobile	0.914
+snowplow	0.891
+soap dispenser	0.506
+soccer ball	0.805
+sofa		0.553
+spatula		0.328
+squirrel	0.918
+starfish	0.648
+stethoscope	0.724
+stove		0.462
+strainer	0.578
+strawberry	0.612
+stretcher	0.464
+sunglasses	0.272
+swimming trunks	0.350
+swine		0.865
+syringe		0.515
+table		0.475
+tape player	0.494
+tennis ball	0.656
+tick		0.413
+tie		0.576
+tiger		0.800
+toaster		0.639
+traffic light	0.626
+train		0.811
+trombone	0.551
+trumpet		0.693
+turtle		0.783
+tv or monitor	0.677
+unicycle	0.816
+vacuum		0.498
+violin		0.649
+volleyball	0.874
+waffle iron	0.476
+washer		0.772
+water bottle	0.517
+watercraft	0.727
+whale		0.866
+wine bottle	0.593
+zebra		0.810
+ - - - - - - - - 
+Mean AP:	 0.637
+Median AP:	 0.667
