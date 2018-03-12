@@ -31,7 +31,7 @@ All of the following steps are based on the assumption that the previous install
 After fully installing craftGBD, testing the model can be done by running ./run_test_multiGPU_ResNet_GBD_accurate.sh in the evaluation folder.
 
 ```
-sudo LD_LIBRARY_PATH={your path} mpirun -np 2 --allow-run-as-root ./run_test_multiGPU_ResNet_GBD_accurate.sh
+sudo mpirun -np 2 --allow-run-as-root ./run_test_multiGPU_ResNet_GBD_accurate.sh
 ```
 ## Training
 
